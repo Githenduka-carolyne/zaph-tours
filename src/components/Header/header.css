@@ -1,0 +1,45 @@
+.header-section{
+    background:black;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo h1{
+    font-size: 40px;
+    color:#F27F2D ;
+}
+.navigation{
+    display: grid;
+    place-content: center;
+}
+.navigation-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    gap: 2rem;
+
+}
+.navigation-item{
+    display: grid;
+    place-content: center;
+}
+.navigation-item a{
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+
+}
+.btn{
+    display: grid;
+    place-content: center;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    background: #F27F2D;
+
+}

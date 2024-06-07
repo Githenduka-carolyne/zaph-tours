@@ -1,0 +1,79 @@
+.destinations{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:1rem;
+ 
+}
+.destination-textbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    padding-left: 50px;
+    gap: 0.5rem;
+    margin-top: 30px;
+    margin-left: 75px;
+    
+}
+.destination-textbox h3{
+    font-size: 30px;
+}
+.destination-title{
+    font-size: 20px;
+    color:#F27F2D;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    
+}
+.destination-container{
+    display: flex;
+    flex-wrap: wrap;
+    place-content: center;
+    gap: 2rem;
+    padding: 20px;
+    /* background-image:url(../../assets/featurebackground.jpg) ; */
+    
+}
+.destination-card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 300px;
+    height: 400px;
+    font-size: 13px;
+    color: var(--color-white);
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.image-wrapper{
+    height: 35vh;
+    object-fit: cover;
+}
+.img{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.destination-card-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    padding: 20px;
+}
+.destination-card-title h4{
+    font-size: 20px;
+    font-style: bold;
+}
+.destination-card-title p{
+    line-height: 2rem;
+    letter-spacing: 1px;
+    /* font-size: 25px;
+    
+    color: #F27F2D; */
+}
+.button{
+    color: #F27F2D;
+    font-size: 15px;
+    font-weight: bolder;
+}
