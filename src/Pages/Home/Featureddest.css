@@ -20,7 +20,7 @@
     font-size: 30px;
 }
 .destination-title{
-    font-size: 20px;
+    font-size: 23px;
     color:#F27F2D;
     font-weight: bolder;
     letter-spacing: 1px;
@@ -43,7 +43,7 @@
     color: var(--color-white);
     margin-top: 10px;
     border-radius: 10px;
-    background-color: #fff;
+    
 }
 .image-wrapper{
     height: 35vh;
@@ -72,8 +72,11 @@
     
     color: #F27F2D; */
 }
-.button{
+.btn4{
     color: #F27F2D;
     font-size: 15px;
     font-weight: bolder;
+    border: none;
+    background-color: transparent;
+    width: 7rem;
 }

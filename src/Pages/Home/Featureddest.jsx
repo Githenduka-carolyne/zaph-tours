@@ -25,7 +25,7 @@ const Featureddest = ()=>{
             <div className="destination-card-title">
               <h4>Mt Kenya</h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              <buttton className="button">Learn more &#8594;</buttton>
+              <button className="btn4">Learn more &#8594;</button>
             </div>
           </div>
 
@@ -36,7 +36,7 @@ const Featureddest = ()=>{
             <div className="destination-card-title">
               <h4>Mt Ruwenzori</h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              <buttton className="button">Learn more &#8594;</buttton>
+              <button className="btn4">Learn more &#8594;</button>
             </div>
           </div>
 
@@ -47,7 +47,7 @@ const Featureddest = ()=>{
             <div className="destination-card-title">
               <h4>Lake Nakuru</h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              <buttton className="button">Learn more &#8594;</buttton>
+              <button className="btn4">Learn more &#8594;</button>
             </div>
           </div>
 
@@ -58,7 +58,7 @@ const Featureddest = ()=>{
             <div className="destination-card-title">
               <h4>Tsavo National Park</h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              <buttton className="button">Learn more &#8594;</buttton>
+              <button className="btn4">Learn more &#8594;</button>
             </div>
           </div>
 
@@ -69,7 +69,7 @@ const Featureddest = ()=>{
             <div className="destination-card-title">
               <h4>Nairobi National Park</h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              <buttton className="button">Learn more &#8594;</buttton>
+              <button className="btn4">Learn more &#8594;</button>
             </div>
           </div>
 
@@ -80,7 +80,7 @@ const Featureddest = ()=>{
             <div className="destination-card-title">
               <h4>Coastal Kenya</h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              <buttton className="button">Learn more &#8594;</buttton>
+              <button className="btn4">Learn more &#8594;</button>
             </div>
           </div>
         </div>
