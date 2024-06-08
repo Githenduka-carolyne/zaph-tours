@@ -9,7 +9,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: left;
-    padding-left: 50px;
     gap: 0.5rem;
     margin-top: 1px;
     margin-left: 75px;
@@ -42,7 +41,7 @@
 .testimonie-card{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
         width: 300px;
-        height: 480px;
+        height: 500px;
         font-size: 13px;
         color: var(--color-white);
         margin-top: 3px;
@@ -79,4 +78,22 @@
     flex-direction: row;
     color: #F27F2D;
     font-size: 20px;
+}
+@media screen and (max-width:28.95em){
+    .testimonie-textbox h3 {
+            font-size: 20px;
+}
+   .testimonie-description{
+        font-size: 13px;
+}
+}
+@media screen and (max-width:19.20em) {
+   .testimonie-textbox {
+        margin-left: 20px;
+    }
+}
+@media screen and (max-width:13.62em){
+    .testimonie-card-title p {
+            line-height: 1.3rem;
+    }
 }

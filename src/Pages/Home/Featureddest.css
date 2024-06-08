@@ -10,7 +10,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: left;
-    padding-left: 50px;
     gap: 0.5rem;
     margin-top: 30px;
     margin-left: 75px;
@@ -79,4 +78,14 @@
     border: none;
     background-color: transparent;
     width: 7rem;
+}
+@media screen and (max-width:28.95em){
+    .destination-textbox h3 {
+            font-size: 20px;
+        }
+}
+@media screen and (max-width:19.20em) {
+    .destination-textbox{
+        margin-left: 20px;
+    }
 }
