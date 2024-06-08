@@ -1,0 +1,39 @@
+.newsinfo-subscription{
+    height:55vh;
+    background-image: url(../../assets/landscape2.jpg);
+    position: relative;
+}
+
+.newsinfo-textbox{
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 70px;
+}
+.news-details h4{
+    font-size: 20px;
+}
+form input,
+form textarea {
+    width: 80%;
+    border: 0;
+    outline: none;
+    background: #DCDCDC;
+    padding: 15px;
+    margin: 4px;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
+.subscribe-btn{
+    width: 50%;
+    border: none;
+    background-color: #F27F2D;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
