@@ -25,8 +25,7 @@ const destination = () => {
           <Destinationss
             image={nairobipark}
             name="Nairobi National Park"
-            description="One of Kenya's most successful rhinoceros sanctuaries, 
-         visitors can be certain of seeing a black rhinoceros"
+            description="One of Kenya's most successful rhinoceros sanctuaries"
             groupprice=" Group price - Ksh 5000"
             individualprice="Individual price - Ksh 6000"
           />
@@ -46,8 +45,7 @@ const destination = () => {
           <Destinationss
             image={mtkenya}
             name="Mt Kenya"
-            description="Kenya's most successful rhinoceros sanctuaries, 
-          where visitors are certain of seeing a black rhinoceros."
+            description="Kenya's most successful rhinoceros sanctuaries"
             groupprice=" Group price - Ksh 5000"
             individualprice="Individual price - Ksh 6000"
           />
@@ -57,8 +55,7 @@ const destination = () => {
           <Destinationss
             image={mombasa}
             name="Mombasa"
-            description="Mombasa is the Kenya's foremost tourist destination for all the tourists 
-            including both the international and the local tourists."
+            description="Mombasa is the Kenya's foremost tourist destination for all the tourists"
             groupprice=" Group price - Ksh 5000"
             individualprice="Individual price - Ksh 6000"
           />
@@ -68,8 +65,7 @@ const destination = () => {
           <Destinationss
             image={italy}
             name="Italy"
-            description="architecture, culture, art, opera, literature, film, and fashion. 
-            This is one of the best countries to go on a foreign tour."
+            description="architecture, culture, art, opera, literature, film, and fashion."
             groupprice=" Group price - Ksh 50000"
             individualprice="Individual price - Ksh 60000"
           />
@@ -79,8 +75,7 @@ const destination = () => {
           <Destinationss
             image={maldives}
             name="Maldives"
-            description="Maldives is world-famous for its wide spectrum of marine life, 
-            and one of the best ways to explore it is by snorkelling or scuba diving"
+            description="Maldives is world-famous for its wide spectrum of marine life"
             groupprice=" Group price - Ksh 50000"
             individualprice="Individual price - Ksh 60000"
           />
@@ -101,8 +96,7 @@ const destination = () => {
           <Destinationss
             image={rhino}
             name="Maasai Mara"
-            description="The Masai Mara is renowned for its 'Big 5' safaris, featuring lion, 
-            leopard, rhinoceros, elephant, and buffalo."
+            description="The Masai Mara is renowned for its 'Big 5' safaris"
             groupprice=" Group price - Ksh 5000"
             individualprice="Individual price - Ksh 6000"
           />
