@@ -1,0 +1,10 @@
+.footer{
+    height: 50px;
+    background-color:#000;
+    display: grid;
+    place-content: center;
+}
+.footer p{
+    font-size: 15px;
+    color: #F27F2D;
+}
