@@ -18,6 +18,7 @@ const CarouselPart = ()=>{
           <img className="image" src={wildlifesafaris}></img>
         </div>
       </Carousel>
+     
     );
 };
 export default CarouselPart;
