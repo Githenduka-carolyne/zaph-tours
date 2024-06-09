@@ -26,7 +26,7 @@ const destination = () => {
             image={nairobipark}
             name="Nairobi National Park"
             description="One of Kenya's most successful rhinoceros sanctuaries, 
-          where visitors can be certain of seeing a black rhinoceros in its natural habitat."
+         visitors can be certain of seeing a black rhinoceros"
             groupprice=" Group price - Ksh 5000"
             individualprice="Individual price - Ksh 6000"
           />
