@@ -46,8 +46,8 @@ const destination = () => {
           <Destinationss
             image={mtkenya}
             name="Mt Kenya"
-            description="One of Kenya's most successful rhinoceros sanctuaries, 
-          where visitors can be certain of seeing a black rhinoceros in its natural habitat."
+            description="Kenya's most successful rhinoceros sanctuaries, 
+          where visitors are certain of seeing a black rhinoceros."
             groupprice=" Group price - Ksh 5000"
             individualprice="Individual price - Ksh 6000"
           />
@@ -122,8 +122,7 @@ const destination = () => {
           <Destinationss
             image={losagelas}
             name="Los Angeles"
-            description="Hollywood stars, the TV & movie industries, and gorgeous beaches all make 
-            LA a famous city and a popular vacation spot."
+            description="Hollywood stars, the TV & movie industries, and gorgeous beaches."
             groupprice=" Group price - Ksh 500000"
             individualprice="Individual price - Ksh 600000"
           />
