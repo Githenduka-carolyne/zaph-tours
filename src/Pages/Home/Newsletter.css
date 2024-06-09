@@ -2,6 +2,11 @@
     height:55vh;
     background-image: url(../../assets/landscape2.jpg);
     position: relative;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .newsinfo-textbox{

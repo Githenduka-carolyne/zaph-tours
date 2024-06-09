@@ -2,9 +2,7 @@
 const Newsletter = ()=>{
     return (
       <section className="newsinfo-subscription">
-        {/* <div className="background-image">
-            <img className="img-bg" src={landscape2}></img>
-        </div> */}
+       
         <div className="newsinfo-textbox">
           <div className="news-details">
             <h4>
